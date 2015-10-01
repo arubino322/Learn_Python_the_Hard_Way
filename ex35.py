@@ -83,7 +83,7 @@ def start():
 
 	if choice == "1":
 		bear_room()
-	elif choice == "2":
+	elif choice == "2":	
 		cthulhu_room()
 	elif choice == "3":
 		chess()
